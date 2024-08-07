@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Miftah Faqih</h1>
-<h3 align="center">Interested in programming and technology. Also interested in design and photography
-  ⸜(｡˃ ᵕ ˂ )⸝</h3>
+<h3 align="center">Interested in programming and technology</h3>
+<h3 align="center">Also interested in design and photography ⸜(｡˃ ᵕ ˂ )⸝</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/lordlibidan.com/wp-content/uploads/2019/03/Running-Pikachu-GIF.gif?resize=480%2C342&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miftahfqih&label=Profile%20views&color=0e75b6&style=flat" alt="miftahfqih" /> </p>
